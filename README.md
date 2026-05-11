@@ -47,47 +47,7 @@ Just type any topic → Watch it come to life!
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Node.js 18+
-- npm
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/ChitranshiPandey/vizly.git
-cd vizly
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Create `.env.local` file:
-```env
-GROQ_API_KEY=your_groq_key
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key
-CLERK_SECRET_KEY=your_clerk_secret
-UNSPLASH_ACCESS_KEY=your_unsplash_key
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
-```
-
-4. Run the development server:
-```bash
-npm run dev
-```
-
-5. Open [http://localhost:3000](http://localhost:3000)
-
----
 
 ## 📸 Screenshots
 
